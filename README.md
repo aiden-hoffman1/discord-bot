@@ -1,39 +1,4 @@
-<h1 align="center">
-  <br>
-  Egglord
-  <br>
-</h1>
-
-<h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
-
-
-<div align=center>
-
- [![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/8g6zUQu)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Spiderjockey02_Discord-Bot&metric=ncloc)](https://sonarcloud.io/dashboard?id=Spiderjockey02_Discord-Bot)
-[![CodeFactor](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/badge/master)](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/overview/master)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2F86.25.177.233%2F)
-[![Crowdin](https://badges.crowdin.net/egglord-discord-bot/localized.svg)](https://crowdin.com/project/egglord-discord-bot)
-  
-</div>
-
-<p align="center">
-  <a href="#about">About</a>
-  •
-  <a href="#Features">Features</a>
-  •
-  <a href="https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/INSTALLATION.md">Installation</a>
-  •
-  <a href="#license">License</a>
-  •
-  <a href="#credits">Credits</a>
-</p>
-
-## ❓ About
-
-Egglord is an open source, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=647203942903840779&permissions=485846102&scope=bot) link! Also, you can join the official [Egglord Support Server](https://discord.gg/8g6zUQu) for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
-
-If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
+If you liked this repository, feel free to leave a star ⭐ to help promote aiden hoffman
 
 ## ❗ Features
 
@@ -68,26 +33,18 @@ Egglord also comes packed with a variety of features, such as:
   * And much more! There are over **40+** settings to tweak!
 
 
-## 📝 To-Do
-
-Egglord is in a continuous state of development. New features/updates may come at any time. Some pending ideas are:
-  
+## 📝 To Do
   * Auto-moderation.
   * Advanced statistics of a server.
 
 ## 🖥️ My other projects
- * [Auto poster](https://github.com/Spiderjockey02/auto-poster-and-notifications) - Allows your users to get notified when you post on another social media. (Youtube, twitch, twitter, reddit etc)
- * [erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook) - Allows facebook videos to played with [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/Freyacodes/Lavalink) client).
+COMING SOON
 
 ## 📖 License
 
-Released under the [Apache License 2.0](https://github.com/Spiderjockey02/Discord-Bot/blob/master/LICENSE) license.
+Released under the [Apache License 2.0]license.
 
 ## 📜 Credits
-* **[Tovade#6617](https://github.com/tovade)** - Initial Reaction Role System.
-* **Josh_V2#9733** - Slash Commands & Tags System.
-* **XBouBou#0856** - French Translation.
-* Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/CONTRIBUTING.md).
+
 
 ## ❗ Disclaimer
-* There is a [dev](https://github.com/Spiderjockey02/Discord-Bot/tree/dev) branch that contains all up-coming features. The dev branch can be used but be weary there may bugs/ errors that could easily break your bot so use with caution. You can still look through the dev branch to see what will be added and give ideas on what to improve before the public use.
